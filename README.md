@@ -183,10 +183,5 @@ Through this project, I practiced:
 
 ---
 
-## Author
 
-**Navikkha Arvind**
 
-Bachelor of Engineering (Computer Science and Business Systems)
-
-GitHub: *Add your GitHub profile link here*
